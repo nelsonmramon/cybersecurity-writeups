@@ -22,7 +22,7 @@ Writeups are organized by platform and tier/difficulty. Each one documents:
 |---|---|---|
 | [Meow](starting-point/tier0-meow.md) | Tier 0 | ✅ Complete |
 | [Fawn](starting-point/tier0-fawn.md) | Tier 0 | ✅ Complete |
-| Dancing | Tier 0 | In progress |
+| [Dancing](starting-point/tier0-dancing.md) | Tier 0 | ✅ Complete |
 | Redeemer | Tier 0 | Not started |
 | Explosion | Tier 0 | Not started |
 
