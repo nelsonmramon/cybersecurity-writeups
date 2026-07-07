@@ -23,7 +23,7 @@ Writeups are organized by platform and tier/difficulty. Each one documents:
 | [Meow](starting-point/tier0-meow.md) | Tier 0 | ✅ Complete |
 | [Fawn](starting-point/tier0-fawn.md) | Tier 0 | ✅ Complete |
 | [Dancing](starting-point/tier0-dancing.md) | Tier 0 | ✅ Complete |
-| Redeemer | Tier 0 | Not started |
+| [Redeemer](starting-point/tier0-redeemer.md) | Tier 0 | ✅ Complete |
 | Explosion | Tier 0 | Not started |
 
 ### TryHackMe
